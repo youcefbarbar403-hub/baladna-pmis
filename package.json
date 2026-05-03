@@ -13,7 +13,6 @@
     "@supabase/supabase-js": "^2.39.0",
     "@tanstack/react-query": "^5.60.0",
     "date-fns": "^3.6.0",
-    "pnpm-store": "link:/tmp/pnpm-store",
     "recharts": "^2.15.0",
     "sonner": "^2.0.0",
     "wouter": "^3.3.0",
